@@ -48,7 +48,7 @@ export default function App() {
       <Route path="/visual" element={<PublicLayout><Reserva /></PublicLayout>} />
       <Route path="/reserva" element={<PublicLayout><ReservaVisual /></PublicLayout>} />
       <Route path="/gracias" element={<PublicLayout><Gracias/></PublicLayout>} />
-      <Route path="/terms" element={<PublicLayout><Terminos/></PublicLayout>} />
+      <Route path="/terminos" element={<PublicLayout><Terminos/></PublicLayout>} />
       <Route path="/privacidad" element={<PublicLayout><Privacidad/></PublicLayout>} />
 
       {/* PROTEGIDAS */}
