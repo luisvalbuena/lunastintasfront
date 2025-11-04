@@ -9,7 +9,7 @@ export default function Header() {
           <Link to="/" className="hover:underline">Inicio</Link>
           <Link to="/reserva" className="hover:underline">Reserva presencial</Link>
           <Link to="/carta" className="hover:underline">Haz tu carta</Link>
-          <Link to="/about" className="hover:underline">Sobre nosotros</Link>
+          <Link to="/login" className="hover:underline">Login</Link>
         </nav>
       </div>
     </header>
